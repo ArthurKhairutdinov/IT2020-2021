@@ -43,3 +43,17 @@ select product.maker, max(pc.price) from product,pc where product.model=pc.model
 select speed,avg(price) from pc where speed>600 group by speed
 
 select distinct maker from pc join product on pc.model=product.model where pc.speed>=750 and maker in (select distinct maker from laptop join product on laptop.model=product.model where laptop.speed>=750)
+
+select model from (select model, price from pc union select model, price from laptop union select model, price from printer) t1 where price = (select max(price) from (select price from pc union select price from laptop union select price from printer) t2)
+
+select distinct maker from product where model in (select model from pc where ram = (select min(ram) from pc) and speed = (select max(speed) from pc where ram = (select min(ram) from pc))) and maker in (select maker from product where type='printer')
+
+select sum(s.price)/sum(s.kol) from (select price,1 as kol from pc, product where pc.model=product.model and product.maker='a' union all select price,1 as kol from laptop,product where laptop.model=product.model and product.maker='a') as s
+
+select product.maker, avg(pc.hd) from pc, product where product.model = pc.model and product.maker in (select distinct maker from product where product.type = 'printer') group by maker
+
+select count(maker) from product where maker in (select maker from product group by maker having count(model) = 1)
+
+select t1.point, t1.date, inc, out from income_o t1 left join outcome_o t2 on t1.point = t2.point and t1.date = t2.date union select t2.point, t2.date, inc, out from income_o t1 right join outcome_o t2 on t1.point = t2.point and t1.date = t2.date
+
+select point, date, sum(sum_out), sum(sum_inc) from ( select point, date, sum(inc) as sum_inc, null as sum_out from income group by point, date union select point, date, null as sum_inc, sum(out) as sum_out from outcome group by point, date ) as t group by point, date order by point
