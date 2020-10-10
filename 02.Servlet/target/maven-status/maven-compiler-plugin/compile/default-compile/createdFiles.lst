@@ -1,1 +1,11 @@
+repositories\CrudRepository.class
+models\User$UserBuilder.class
+servlets\UsersServlet.class
+models\User.class
+repositories\SimpleJdbcTemplate.class
+repositories\UsersRepository.class
+servlets\SignInServlet.class
+repositories\UsersRepositoryJdbcImpl.class
+repositories\RowMapper.class
 servlets\SimpleHtmlServlet.class
+servlets\ProfileServlet.class
