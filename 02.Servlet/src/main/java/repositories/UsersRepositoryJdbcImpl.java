@@ -13,6 +13,9 @@ public class UsersRepositoryJdbcImpl implements UsersRepository {
     private static final String SQL_FIND_ALL_USERS = "select * from reg";
     //language=SQL
     private static final String SQL_FIND_ALL_USERS_BY_AGE = "select * from reg where age = ?";
+    //language=SQL
+    private static final String SQL_FIND_ALL_USERS_BY_NAME
+            = "select * from reg where name = ?";
 
     private Connection connection;
 
@@ -42,6 +45,11 @@ public class UsersRepositoryJdbcImpl implements UsersRepository {
     @Override
     public List<User> findAll() {
         return jdbcTemplate.queryForList(SQL_FIND_ALL_USERS, usersRowMapper);
+    }
+
+    @Override
+    public List<User> findAllByNameStartingWith(String name) {
+        return jdbcTemplate.queryForList(SQL_FIND_ALL_USERS_BY_NAME, usersRowMapper, name);
     }
 
     @Override

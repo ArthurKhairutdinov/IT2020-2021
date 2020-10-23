@@ -7,5 +7,6 @@ repositories\UsersRepository.class
 servlets\SignInServlet.class
 repositories\UsersRepositoryJdbcImpl.class
 repositories\RowMapper.class
+servlets\AjaxServlet.class
 servlets\SimpleHtmlServlet.class
 servlets\ProfileServlet.class
