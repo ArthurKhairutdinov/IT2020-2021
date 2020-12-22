@@ -1,0 +1,7 @@
+Which planet is closest to our sun?;Mercury;Mars;Earth;Venus
+You would find the Mariana trench in which ocean?;Pacific;Atlantic;Indian;Arctic
+All of these famous people were poets with the exception of:;Jane Austen;Robert Frost;Langston Hughes;Maya Angelou
+If it's 5 p.m. in Los Angeles, what time is it in London?;1 a.m.;6 a.m.;9 a.m.;12 a.m.
+Who is the lead singer of Foo Fighters?;Dave Grohl;Matthew James Bellamy;Eddie Vedder;Billie Joe Armstrong
+If you were alive during the Impressionist Movement, which year would you most likely be living in?;1869;1953;1425;1713
+Where was William Shakespeare born?;Stratford-Upon-Avon;Edinburgh;Nottingham;Manchester

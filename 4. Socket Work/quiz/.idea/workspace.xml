@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ea9dca2-6e80-4126-b554-ccb8d0fc36ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lyJa7rtdAcmTRWUJcyIIkJyGLS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="aws" />
+  </component>
+  <component name="RunManager" selected="Application.MainForClient 2">
+    <configuration name="MainForClient 1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.itis.application.MainForClient" />
+      <module name="quiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.itis.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainForClient 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.itis.application.MainForClient" />
+      <module name="quiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.itis.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainForServer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.itis.application.MainForServer" />
+      <module name="quiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.itis.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainForClient 1" />
+      <item itemvalue="Application.MainForClient 2" />
+      <item itemvalue="Application.MainForServer" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ea9dca2-6e80-4126-b554-ccb8d0fc36ed" name="Default Changelist" comment="" />
+      <created>1608563457565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608563457565</updated>
+      <workItem from="1608563467996" duration="15428000" />
+      <workItem from="1608580988746" duration="307000" />
+      <workItem from="1608581315382" duration="1510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="199" key="#MainForClient" timestamp="1608565199922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="199" key="#MainForClient/0.0.1920.1040@0.0.1920.1040" timestamp="1608565199922" />
+    <state x="686" y="199" key="#MainForServer" timestamp="1608565191754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="199" key="#MainForServer/0.0.1920.1040@0.0.1920.1040" timestamp="1608565191754" />
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608565206503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608565206503" />
+    <state x="704" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608563936820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608563936820" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1608566273749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608566273749" />
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1608581007028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608581007028" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608582949437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608582949437" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608578834619" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608582949436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608582949436" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608578834619" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608582949436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608582949436" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608578834619" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608582949437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608582949437" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608578834619" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1608577998621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608577998621" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1608577998621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608577998621" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1608577998621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608577998621" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1608577998621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608577998621" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1608581015645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608581015645" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608578578291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608578578291" />
+  </component>
+</project>
